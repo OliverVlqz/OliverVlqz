@@ -24,3 +24,5 @@
 - HTML / CSS / JavaScript
 - React / Next.js
 - Node.js
+- Typescript
+- React Native 
