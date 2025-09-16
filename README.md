@@ -26,5 +26,5 @@
 - Node.js
 - Typescript
 - React Native
-- Python (Data Engienering)
+- Python (Data Engineering)
 - Docker
